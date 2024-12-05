@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int i = 2;
+    int i = 16;
     if (i % 15 == 0){
         printf("Love IU");
     }
